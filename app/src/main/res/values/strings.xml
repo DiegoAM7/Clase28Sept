@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Clase28Sept</string>
+
+    // Categoria
+    <string name="lblTitleCat">Nueva Categoria</string>
+    <string name="etxtNameCat">Nombre Categoria</string>
+
+    // Productos
+    <string name="lblTitleProd">Nuevo Producto</string>
+    <string name="etxtNameProd">Nombre Producto</string>
+    <string name="etxtTrademarkProd">Marca Producto</string>
+    <string name="etxtModelProd">Modelo Producto</string>
+    <string name="etxtStockProd">Stock Producto</string>
+    <string name="etxtPriceProd">Precio Producto</string>
+    <string name="lblCategoryProd">Categoria</string>
+
+    // Boton
+    <string name="btnSave">Guardar</string>
+</resources>
